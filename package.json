@@ -1,11 +1,11 @@
 {
-  "name": "react-native-keyguard",
+  "name": "@rpocaznoi/react-native-keyguard",
   "description": "A react native module to control the Keyguard in Android.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "index.android.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:NishanthShankar/react-native-keyguard.git"
+    "url": "git@github.com:rpocaznoi/react-native-keyguard.git"
   },
   "keywords": [
     "react-component",
