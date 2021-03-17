@@ -1,4 +1,4 @@
-package me.neo.keyguard;
+package com.rp.keyguard;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

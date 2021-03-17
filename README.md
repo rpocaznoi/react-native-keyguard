@@ -5,13 +5,13 @@ A react native module to control the Keyguard.
 ## Setup
 
 ```
-npm install react-native-interactable --save
+npm install git+ssh://git@gitlab.com:rpocaznoi/react-native-keyguard --save
 ```
 
 * Link the native library to your project
 
 ```
-react-native link react-native-interactable
+react-native link react-native-keyguard
 ```
 
 * Rebuild app from your project root directory
