@@ -5,7 +5,7 @@ A react native module to control the Keyguard.
 ## Setup
 
 ```
-npm install git+ssh://git@gitlab.com:rpocaznoi/react-native-keyguard --save
+npm install git@gitlab.com:rpocaznoi/react-native-keyguard --save
 ```
 
 * Link the native library to your project
